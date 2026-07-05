@@ -45,3 +45,13 @@ Computer Networks, TCP, QoS, DASH, CDN, Router Architecture
 ![figure_05](assets/images/figure_05.png)
 
 ![figure_06](assets/images/figure_06.png)
+
+## Full Project Package
+
+This repository now includes the complete public project package:
+
+- `docs/full_report_redacted.md` - full technical report text with private identifiers removed.
+- `assets/full_report_media/` or `assets/full_report_pages/` - report figures/pages where available.
+- Project source/configuration folders where the original project included runnable code or design files.
+
+Original raw report archives are not committed because they can contain private student metadata in covers, headers, or document properties.
